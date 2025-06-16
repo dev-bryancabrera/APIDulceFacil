@@ -1,0 +1,85 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "dulceFacilDBContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "C:\\Users\\cabre\\OneDrive\\Documents\\U. Israel\\Materias\\6to Ciclo\\Desarrollo I\\Proyectos\\APIDulceFacil\\DulceFacil.Dominio.Modelos\\Entidades",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DulceFacil.Infraestructura.DataAccess",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[cliente]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[detalle_pedido]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[pedido]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[persona]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[producto]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[punto_venta]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[reparto]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[rol]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[usuario]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[zona]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
