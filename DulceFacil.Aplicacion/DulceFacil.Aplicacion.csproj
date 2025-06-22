@@ -11,6 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.ServiceModel.Primitives" Version="8.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\DulceFacil.Dominio.Modelos\DulceFacil.Dominio.Modelos.csproj" />
     <ProjectReference Include="..\DulceFacil.Dominio.Servicios\DulceFacil.Dominio.Servicios.csproj" />
     <ProjectReference Include="..\DulceFacil.Infraestructura.DataAccess\DulceFacil.Infraestructura.DataAccess.csproj" />
